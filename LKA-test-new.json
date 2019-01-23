@@ -1,0 +1,29 @@
+{
+    "type"    : "FeatureCollection",
+    "features": [{
+        "type"      : "Feature",
+        "properties": {
+            "ISO"      : "ITA",
+            "NAME_0"   : "Italy",
+            "ID_1"     : 1,
+            "NAME_1"   : "Abruzzo",
+            "ID_2"     : 1,
+            "NAME_2"   : "Chieti",
+            "HASC_2"   : "IT.CH",
+            "TYPE_2"   : "Provincia",
+            "ENGTYPE_2": "Province",
+            "VARNAME_2": ""
+        },
+        "geometry": {
+            "type"       : "LineString",
+            "coordinates": [
+                [440.211181640625, 8.90678000752024],
+                [439.969482421875, 7.721878499324502],
+                [440.44189453125, 6.151477964207555],
+                [441.44165039062494, 6.991859181483692],
+                [441.221923828125, 8.363692651835823],
+                [440.15625, 8.928487062665504]
+            ]
+        }
+    }]
+}
